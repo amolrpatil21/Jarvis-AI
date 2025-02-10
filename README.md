@@ -1,6 +1,6 @@
 
 
-Jarvis AI: AI-Powered Lyrics Generator
+Jarvis AI
 
 Description
 
